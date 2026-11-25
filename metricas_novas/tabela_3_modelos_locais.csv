@@ -1,0 +1,6 @@
+Modelo;Tipo;SMS_Acurácia;SMS_Precisão;SMS_Recall;SMS_Especificidade;SMS_F1-Score;SMS_TP;SMS_FP;SMS_FN;SMS_TN;SMS_Tempo_Média;SMS_Tempo_Desvio_Padrão;SMS_Total_Pipeline_Média;Email_Acurácia;Email_Precisão;Email_Recall;Email_Especificidade;Email_F1-Score;Email_TP;Email_FP;Email_FN;Email_TN;Email_Tempo_Média;Email_Tempo_Desvio_Padrão;Email_Total_Pipeline_Média
+hf.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF:Q6_K;Local;89.27%;55.82%;96.60%;88.14%;70.75%;710;562;25;4175;8.10s;1.89s;8.12s;83.95%;74.22%;90.69%;79.58%;81.63%;2853;991;293;3863;14.75s;78.02s;14.96s
+hf.co/yuxinlu1/Mellum2-12B-A2.5B-Claude-4.6-4.8-Opus-Thinking-GGUF:Q4_K_M;Local;31.60%;16.08%;97.01%;21.45%;27.59%;713;3721;22;1016;5.64s;3.36s;5.66s;53.02%;45.08%;89.13%;29.63%;59.88%;2804;3416;342;1438;7.50s;4.27s;7.71s
+llama3:8b;Local;33.24%;16.54%;98.10%;23.18%;28.30%;721;3639;14;1098;1.53s;0.57s;1.55s;56.25%;47.14%;92.85%;32.53%;62.53%;2921;3275;225;1579;2.36s;1.95s;2.57s
+ministral-3:14b;Local;33.33%;16.65%;98.91%;23.16%;28.50%;727;3640;8;1097;10.76s;5.60s;10.78s;56.95%;47.62%;94.69%;32.49%;63.37%;2979;3277;167;1577;18.96s;9.58s;19.16s
+qwen3.5:9b;Local;89.71%;57.31%;91.70%;89.40%;70.54%;674;502;61;4235;4.84s;1.49s;4.87s;86.55%;81.71%;84.77%;87.70%;83.21%;2667;597;479;4257;7.14s;2.06s;7.34s

@@ -1,0 +1,59 @@
+
+
+# Django & Web Framework
+Django>=5.0
+djangorestframework
+django-cors-headers
+django-jazzmin
+drf-yasg
+gunicorn
+whitenoise
+
+# Google APIs
+google-generativeai
+google-api-python-client
+google-auth-oauthlib
+
+# Ollama Cloud 
+ollama
+
+
+# LangChain
+langchain-google-genai
+langchain-community
+langchain-chroma
+langchain-huggingface
+
+# Vector Database
+chromadb
+
+# ML/AI
+torch
+transformers
+sentence-transformers
+scikit-learn
+
+# Data Processing
+pandas
+numpy
+
+# HTML & Image Processing
+beautifulsoup4
+Pillow
+
+# Utilities
+python-decouple
+python-dotenv
+requests>=2.32.5
+uvicorn
+dj-database-url
+psycopg2-binary
+
+# Visualization 
+matplotlib
+seaborn
+plotly
+
+# Evaluation & Statistical Analysis
+scipy
+tqdm

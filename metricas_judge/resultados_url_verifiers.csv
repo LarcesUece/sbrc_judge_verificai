@@ -1,0 +1,836 @@
+url,true_label,safe_browsing,safe_browsing_time,urlscan,urlscan_time,botoi,botoi_time
+tpatten.com,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3340404033660889,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.783110618591309,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.046781539916992
+www.digigrupp.com/snmptools/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0058069229125977,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.digigrupp.co",1.1231005191802979,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.677854299545288
+www.conservativebookstore.com/chess/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8394379615783691,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.855527639389038,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3241229057312012
+www.miranda.org/~jkominek/perllinux/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.939063310623169,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.miranda.org",1.3568286895751953,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0699677467346191
+https://www.metrolyrics.com/10000-days-album-tool.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.222996473312378,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.metrolyrics.",1.226313829421997,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2356030941009521
+http://whatsbang.topwhats.mobi/?c=BG&amp;tsc=BM6940&amp;hash=1492592679mb16458075586&amp;cnl=2108&amp;pub=0,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.167701005935669,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain whatsbang.topwha",1.6380114555358887,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0552701950073242
+tools.ietf.org/html/rfc842,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3832895755767822,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.867253065109253,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8215868473052979
+https://ip-132-148-145-99.ip.secureserver.net/r.php?id=godsgeschenk@hotmail.com,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.088210105895996,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain ip-132-148-145-9",1.2767925262451172,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9870874881744385
+http://www.masrealestate.it/index.php?lang=en,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8638954162597656,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.344257831573486,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0198237895965576
+https://www.pcgametrek.com/star-trek-online-mmo-game/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9291818141937256,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.659308195114136,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.225764274597168
+http://www.ebeco.de/index.php?option=com_content&view=article&id=26&Itemid=39&lang=de,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9769423007965088,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.13304352760315,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.997234582901001
+https://www.absoluteastronomy.com/topics/Supermarkets_in_the_United_Kingdom,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8054530620574951,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.735240459442139,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2473299503326416
+http://millenniaco-my.sharepoint.com/personal/vgibbs_mhmltd_com/_layouts/15/doc.aspx?sourcedoc={ec69f793-5e80-4ab9-ab2a-66e49de9b392}&amp;action=default&amp;slrid=dca0489f-f03b-b000-9fd0-1e171e182306&amp;originalpath=ahr0chm6ly9tawxszw5uawfjby1tes5zagfyzxbvaw50lmnvbs86bzovzy9wzxjzb25hbc92z2liynnfbwhtbhrkx2nvbs9fcfazywv5qvhybetxexbtnuozchm1suiwaw1pnk90znrqcdrpsnpmqmu0uhlrp3j0aw1lpujzclb1vkrnmtbn&amp;cid=0e1475ff-8901-48a8-aeae-660a9e5b5547,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8077938556671143,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.191732406616211,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8407988548278809
+http://akamaicss.com/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9728906154632568,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain akamaicss.com co",1.269148349761963,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9595973491668701
+http://www.sportschule-neumann.de/index.php?view=article&catid=2:seminare&id=5:personal-coaching&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=7,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9115910530090332,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.800435543060303,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5197594165802002
+lw.lsa.umich.edu/kelsey/galleries/Exhibits/textiles/index.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8108906745910645,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain lw.lsa.umich.edu",1.634458303451538,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6875858306884766
+https://www.en.wikipedia.org/wiki/Kahn-Tineta_Horn,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9219675064086914,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.en.wikipedia",1.1642637252807617,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5633723735809326
+http://lpmxp2075.com,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0187633037567139,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain lpmxp2075.com co",1.329606056213379,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.926295280456543
+http://www.destro.nl/index.php?option=com_dfcontact&Itemid=2,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9718520641326904,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.867397785186768,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.120314359664917
+https://www.whosdatedwho.com/tpx_126564/miranda-garrison/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0269665718078613,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.437663793563843,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.674074649810791
+www.eecg.toronto.edu/parallel/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8544199466705322,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.048617839813232,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.429499626159668
+https://www.umkcroos.proboards.com/index.cgi?board=general&action=display&thread=420,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1161036491394043,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.782210826873779,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2253644466400146
+https://www.ampmbelfast.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0166120529174805,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.399543285369873,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.634864330291748
+http://www.verrijzenisgemeenschap.nl/index.php?view=article&catid=64:zorg-voor-elkaar&id=52:zorg-voor-elkaar&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=79,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4052047729492188,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.434898853302002,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5387513637542725
+https://www.lanny-barby-absu.blogspot.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2191896438598633,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.453443765640259,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3647758960723877
+https://www.answers.com/topic/mcclymonds,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4254136085510254,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.662944555282593,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3702542781829834
+https://www.miamiherald.com/2011/10/23/2465246/review-of-julia-scheeres-a-thousand.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2172729969024658,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.80187463760376,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.042818784713745
+http://www.plasmatreatment.co.uk/index.php/application-areas/plasma-cleaner--plasma-cleaning/plasma-cleaning-of-pcbs,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2559912204742432,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.729417562484741,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.195754051208496
+http://www.kainuna.com/wwazzy2/index.htm,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.5841586589813232,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.326639413833618,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4271328449249268
+http://www.feuerbestattung.lu/index.php/fr/component/mailto/index.html?tmpl=component&link=15188ab8955843c2456da47a1981b56f0b8635f6,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.425743579864502,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.501499652862549,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.038379669189453
+https://www.google.com/corporate/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.6301944255828857,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.7541401386260986,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8839757442474365
+https://www.exceedinglygoodkeex.blogspot.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.411365032196045,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.477453231811523,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5702064037322998
+"http://kourylopes.com.br/ap/VAN-GOG02/ATUALIZACAO.CLIENTE.SANTANDER.ATIVAR.CHAVE/ATENDIMENTO.CLIENTE.SANTANDER/NOVO.ACESSO.CLIENTE.DESATUALIZADO/cadastro.Santander2016/index1.php?%20id=10,47,04,AM,263,9,09,u,20,10,o,Tuesday.asp",MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3203580379486084,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain kourylopes.com.b",1.634521722793579,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.7777700424194336
+https://www.facebook.com/jeanfrancois.martineau,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4264748096466064,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.9809298515319824,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5800683498382568
+https://www.truthforlife.org/resources/sermon/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.423750877380371,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.704450607299805,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4292476177215576
+https://www.movies.msn.com/celebrities/celebrity/joby-baker/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2177948951721191,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.movies.msn.c",1.7377536296844482,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3716845512390137
+www.marl.co.uk/optosource,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1391875743865967,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.496485710144043,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8436501026153564
+www.handelsvertretung-penka.de/gbindex.htm,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.213972568511963,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.909162998199463,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5316286087036133
+http://twitter.com/0qxtPXSmSyI,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3106961250305176,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.9572560787200928,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.578143835067749
+https://www.experienceproject.com/song_meanings.php?song=Wind+It+Up&a=Gwen+Stefani&s=2953&t=s,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3230693340301514,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.experiencepr",5.943636894226074,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5508513450622559
+https://www.chacha.com/question/how-old-is-golfer%2C-tom-watson,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2306296825408936,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.973342180252075,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6334083080291748
+https://www.scc-csc.gc.ca/court-cour/ju/cfcju-jucp/index-eng.asp,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.530674934387207,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.212839365005493,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5343918800354004
+https://www.spiritaero.com/about_us.aspx?id=246,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2347767353057861,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.600098848342896,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.3298087120056152
+scholar.lib.vt.edu/theses/available/etd-12142004-090652/unrestricted/CHAPTER-2.pdf,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.355161428451538,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.705097675323486,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9636175632476807
+https://www.burbankhousing.org/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8344697952270508,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.7555060386657715,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.392287254333496
+https://www.desire-york.pl/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4561474323272705,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.327640295028687,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0474014282226562
+http://hiroba.dqx.jp.iurcl.usa.cc/account/app/svc/login.html...,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8915834426879883,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain hiroba.dqx.jp.iu",5.788619756698608,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.123751163482666
+http://stock.perm.ru/index.php?option=com_content&view=article&id=96&Itemid=315,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1220011711120605,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.704444885253906,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6316938400268555
+https://www.alibris.com/search/books/author/Garwood%2C%20Julie,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4187846183776855,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.575404167175293,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3589634895324707
+www.patoche.org/LTT/notebook/00000107.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.5627493858337402,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.094748497009277,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6193993091583252
+www.thomasregional.com/tglf/atco/index.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.36350679397583,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.278048992156982,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.7946803569793701
+http://115.29.165.174:25663/sshdd,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.6354527473449707,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.505496501922607,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.317044973373413
+https://www.lead411.com/company_TerraSoftSolutionsInc_521922.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4173660278320312,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.70088267326355,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.7793934345245361
+http://ourstaf.com/sec/home/Signin,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.646683931350708,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.838134050369263,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.9551351070404053
+https://www.youthfootballscotland.co.uk/clubs/east-region-clubs/east-syfa-clubs,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.371549129486084,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.716682195663452,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5483405590057373
+https://www.pipl.com/directory/tags/Victor%2520Colicchio,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.171851634979248,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.729097366333008,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.133476734161377
+http://www.terrassentrend.de/templates/css/made/adeb/adobe.php,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8388187885284424,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.975853443145752,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0754673480987549
+https://www.youtube.com/watch?v=pKWMSUw4Eo8,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.031095027923584,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.5790843963623047,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.167661190032959
+https://www.gossipcenter.com/adriana-lima,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0174050331115723,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.440503358840942,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0087437629699707
+http://www.smalbro.dk/free-postcards-21-30,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8407742977142334,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.818549871444702,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1124937534332275
+https://www.evri.com/organization/linux-game-publishing-0x75f77,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1110434532165527,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.096394300460815,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4296271800994873
+https://www.chicagowolves.com/releases/2681-sweatt-and-sauve-among-six-assigned-to-wolves,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9968400001525879,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.119898557662964,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3890085220336914
+http://istars.com.ua/3bart0.php,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9904301166534424,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain istars.com.ua co",1.4501709938049316,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9728412628173828
+https://www.bucknellbison.com/sports/m-baskbl/spec-rel/080410aab.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8505363464355469,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.137311458587646,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3259022235870361
+http://www.andriacambia.it/index.php?view=article&catid=43:info&id=123:progetto-di-comunicazione&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=176,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9551177024841309,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.andriacambia",1.3625500202178955,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4733765125274658
+http://3rwayink.com/o/nD,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3263680934906006,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain 3rwayink.com cou",1.057020664215088,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2926111221313477
+www.cs.cmu.edu/afs/cs/project/amulet/amulet3/manual/overview.html#1002211,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8049860000610352,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.8336169719696045,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9596750736236572
+www.btrc.net/html/catalog/catmain.html#Epiphany,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8666152954101562,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.821353197097778,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1310317516326904
+https://www.thefreelibrary.com/The+Hockey+Company+Holdings+Inc.+Announces+Acquisition+of+Lifestyle...-a0106768219,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0097675323486328,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.686201810836792,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8322319984436035
+https://poloniextron.blogspot.com/?tu5,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0623915195465088,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.776784181594849,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.03745698928833
+https://www.whosdatedwho.com/tpx_25239/phyllis-diller/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.182142972946167,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.248413562774658,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2411112785339355
+https://www.chacha.com/question/what-are-the-names-of-jeff-stinco%27s-children,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8421645164489746,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.663807153701782,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0240402221679688
+http://www.school91.kiev.ua/index.php?option=com_content&view=category&layout=blog&id=37&Itemid=60,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3641548156738281,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.school91.kie",1.7809247970581055,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3520376682281494
+http://www.sastaservices.com/dd/5a48e3b3f3958864a0fcea604229e0d3/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.5290002822875977,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.sastaservice",2.7545676231384277,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.062587022781372
+https://www.chacha.com/question/who-was-the-tampa-bay-buccaneers-quarter-back-when-they-beat-the-oakland-raiders-in-super-bowl-2002,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8081986904144287,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.934193849563599,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3179426193237305
+https://www.perkins-family.org/research/geo-c-perkins.shtml,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0071840286254883,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.perkins-fami",1.4298131465911865,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6382567882537842
+www.domaintechnik.com/reseller-affiliate/affiliate-programm.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4215357303619385,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.669722080230713,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",0.9677705764770508
+https://www.guedy.info/uploads/T_J__Houshmandzadeh_-_Wikipedia__the_free_encyclopedia.htm,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8115570545196533,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.guedy.info c",2.270496368408203,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0333888530731201
+http://iremshrine.org/component/jevents/day.listevents/2013/02/09/97,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8234438896179199,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.848962545394897,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1162042617797852
+https://www.soccernet.espn.go.com/scoreboard?league=all&cc=5901,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0487120151519775,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.soccernet.es",1.2174763679504395,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.9315211772918701
+http://puflexivel.com.br/obai/ck.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0190174579620361,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.152345418930054,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.166273593902588
+https://www.rottentomatoes.com/m/pirate_radio/trailers/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8313913345336914,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.394842863082886,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.486548900604248
+https://www.answers.com/topic/jeremy-harrison,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.219120979309082,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.780444622039795,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3724031448364258
+https://www.anconguild.com/1967Season.htm,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8208408355712891,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.233579874038696,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2257623672485352
+https://www.bclions.com/roster/show/id/2491,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.327589750289917,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.063413619995117,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3308155536651611
+https://www.officesetupsupport365.com,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1165852546691895,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.officesetups",1.7348089218139648,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0826549530029297
+http://www.starfleetepsilon.com/application/views/secure/DHL/index.php,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8420984745025635,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.starfleeteps",1.0792369842529297,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.661360740661621
+www.oldhalifax.com/airport/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.325542688369751,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.610567808151245,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.846107006072998
+www.lsi.upc.edu/~carreras/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0474035739898682,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.848989248275757,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1240220069885254
+https://www.drphil.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9323432445526123,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.391867637634277,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1998138427734375
+https://www.nymag.com/arts/books/features/33156/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9600753784179688,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.6200549602508545,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1713430881500244
+https://www.youtube.com/watch?v=qktdq1Y8umI,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9728856086730957,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.498645544052124,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3249082565307617
+http://www.manaveeyamnews.com/hwp/GD/PI/84b66ef5c828256e056f8a2dee7d59dc/,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9151451587677002,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.manaveeyamne",1.3287725448608398,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0716221332550049
+https://www.disneyanimation.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8132989406585693,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.882730960845947,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5997166633605957
+http://www.symedin.com/page/32.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1648027896881104,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.symedin.com",1.091029405593872,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2033774852752686
+https://www.litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=21+Pac.+McGeorge+Global+Bus.+%26+Dev.+L.J.+313&srctype=smi&srcid=3B15&key=c140d27c68fd7be8beb4d74fcf0aaff6,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3301331996917725,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.litigation-e",1.5296473503112793,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0796968936920166
+http://www.sting-miyamoto.com/liveschedule/176-live20121019.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0094130039215088,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.511368989944458,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.11961030960083
+https://www.magazine-covers.lucywho.com/kris-aquino-magazine-covers-t19695.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8475914001464844,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.magazine-cov",1.1858720779418945,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1106133460998535
+https://www.facebook.com/people/Dennis-Jan-McCoy/1390819834,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.9639155864715576,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",1.4285848140716553,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.0501728057861328
+www.tek-tips.com/threadminder.cfm?pid=222,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8167943954467773,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",7.8360161781311035,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1746582984924316
+http://radiouyuyuy.com/component/content/article/8-noticias-febrero/11-noticia-4,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.0886919498443604,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain radiouyuyuy.com",1.416919469833374,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2604427337646484
+https://www.montreal.beforelastcall.com/happenin/just_for_laughs_museum/montreal/20204/4/just_for_laughs_museum_new_years_eve_party_2010.html,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1998872756958008,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",10.094996452331543,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5265169143676758
+gamereport.com/tgr17/titanthearena.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2511441707611084,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.902736186981201,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3218762874603271
+https://www.en.wikipedia.org/wiki/Kansas_City_Zoological_Park,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.101984977722168,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.en.wikipedia",1.2268199920654297,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.197549819946289
+http://plazabagus.com/qe6qme1,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1870172023773193,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain plazabagus.com c",1.4381318092346191,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.426978349685669
+www.artima.com/cppsource/cpp0x.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.5143299102783203,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.259812355041504,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.491588830947876
+http://www.mnemonicmultimedia.com/index.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.6989455223083496,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.316848993301392,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3383080959320068
+www.xmailserver.org/guasi-lib.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2259390354156494,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.151277780532837,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5308811664581299
+https://www.genome.wisc.edu/functional/tnmutagenesis.htm,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.504260778427124,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.509810447692871,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5066406726837158
+http://mbpanet.com/index.php?option=com_content&view=article&id=141:pretoria-name-change-public-meeting&catid=1:latest-news&Itemid=50,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2218737602233887,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.651454210281372,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.398603916168213
+http://www.tvsk.com.au/about,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.430248498916626,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.tvsk.com.au",1.5503921508789062,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.279555320739746
+http://58.221.49.42:480/95idc,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.160611629486084,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.32488751411438,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2822120189666748
+http://lookbookinghotels.ws/a9sgrrak,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1466336250305176,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.460055828094482,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3044774532318115
+www.exontrol.com/expropertieslist.jsp,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.184338092803955,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.281310558319092,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4010400772094727
+https://www.quantumfrog.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2988276481628418,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.471187114715576,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.2890710830688477
+https://www.albany.esc14.net/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.157353162765503,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.002068996429443,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.7472665309906006
+https://www.en.wikipedia.org/wiki/The_Man_Who_Wasn%27t_There_(1983_film),SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3924033641815186,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.en.wikipedia",1.5126667022705078,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.204293966293335
+http://michaelgoczol.de/hp/gallery/editorials/elaine/index.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3051037788391113,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.685041427612305,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5302197933197021
+http://bebeaut.co.za/libraries/outtime/outtime/v3/member.htm,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3139262199401855,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain bebeaut.co.za co",2.1445775032043457,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3732852935791016
+https://www.en.wikipedia.org/wiki/Dan_Jason,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2159078121185303,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.en.wikipedia",1.7376255989074707,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6294951438903809
+www.vatell.com/background.htm,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2725777626037598,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.552538871765137,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.382676124572754
+https://www.depthoffield.de/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2059621810913086,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",14.73833155632019,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.426009178161621
+http://opttoys24.ru/index.php?option=com_virtuemart&page=shop.registration&Itemid=5,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.7063724994659424,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain opttoys24.ru cou",1.868237018585205,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.0878496170043945
+https://www.imdb.com/name/nm0147954/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2165474891662598,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",2.1620969772338867,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4713881015777588
+https://www.youtube.com/watch?v=cV-TsdJgSug,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3292450904846191,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Scan prevented ..."",
+  ""description"": ""The submitted URL was blocked from scanning.""",2.0943174362182617,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4777805805206299
+http://2duwo.com/index.php/bestelonzecd?fontstyle=f-larger,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.275465726852417,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.193678379058838,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4079711437225342
+https://apbfiber.com/openme/1220d200d42d3_18d30d11.exe,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.3553345203399658,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.265501499176025,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.36314058303833
+https://www.en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation),SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1695356369018555,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""DNS Error - Could not resolve domain"",
+  ""description"": ""The domain www.en.wikipedia",1.5022780895233154,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5528323650360107
+www.imtoo.com/audio-encoder.html,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.2329902648925781,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.57004189491272,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.716829538345337
+"http://http://feuchtwiesen-stoerche-bodensee.net/wp-content/themes/kihon/lib/font-awesome/css/genesis/T1Rnd056azVOelV3T1RBPQ==/5hwp1s8sk2qq0hsa0c6dhpw8.php?login=&.verify?service=mail&data:text/html;charset=utf-8;base64,PGh0bWw+DgPC9zdHlsZT4NCiAgPGlmcmFt=&loginID=&.#n=1252899642&fid=1&fav=1",MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.1563267707824707,"ERROR_400 Client Error: Bad Request for url: h - {
+  ""message"": ""Don't be silly now ..."",
+  ""description"": ""This looks like a weird hostname..."",
+  """,1.4896109104156494,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.6465868949890137
+http://www.feuerwehr-treuenbrietzen.de/index.php?view=details&id=222:dienst-eisrettung&pop=1&tmpl=component&option=com_eventlist&Itemid=2,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4426496028900146,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.65969705581665,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4343485832214355
+http://213.139.204.84/x0ox0ox0oxDefault/z0r0.mips,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.320756435394287,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.714742660522461,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.3624424934387207
+https://www.manta.com/c/mth0drs/dr-todd-frederick-md,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.23195481300354,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.213245391845703,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4900298118591309
+http://www.belmontbaptistchurch.com/mission-vision-statement/print-2,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.5531175136566162,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",9.463390350341797,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.181058645248413
+http://safiraandrade.hospedagemdesites.ws/wp/wp-admin/images/red.php,MALICIOUS,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.8093104362487793,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.544518947601318,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.8183045387268066
+https://www.redtube.com/9003,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.4730665683746338,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.45718502998352,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.5849733352661133
+https://www.marianasmarkets.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.6217021942138672,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.26256537437439,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.1222686767578125
+https://www.belfim.com/picture-641,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",0.8270912170410156,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.260887861251831,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",2.2500417232513428
+https://www.antiochdentalcenter.com/,SAFE,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Requests to this API safebrowsing.googleapis.com met",1.505394458770752,"ERROR_403 Client Error: Forbidden for url: htt - {
+  ""warning"": ""You're not logged in!""
+}",8.583186149597168,"ERROR_500 Server Error: Internal Server Error  - {""success"":false,""error"":{""code"":""PHISHING_CHECK_FAILED"",""message"":""URLhaus returned status 401""},""m",1.4927921295166016

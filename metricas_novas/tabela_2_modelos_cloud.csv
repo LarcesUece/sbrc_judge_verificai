@@ -1,0 +1,6 @@
+Modelo;Tipo;SMS_Acurácia;SMS_Precisão;SMS_Recall;SMS_Especificidade;SMS_F1-Score;SMS_TP;SMS_FP;SMS_FN;SMS_TN;SMS_Tempo_Média;SMS_Tempo_Desvio_Padrão;SMS_Total_Pipeline_Média;Email_Acurácia;Email_Precisão;Email_Recall;Email_Especificidade;Email_F1-Score;Email_TP;Email_FP;Email_FN;Email_TN;Email_Tempo_Média;Email_Tempo_Desvio_Padrão;Email_Total_Pipeline_Média
+deepseek-v4-flash:cloud;Cloud;96.66%;82.47%;95.37%;96.85%;88.45%;701;149;34;4588;2.00s;1.84s;2.03s;91.30%;89.47%;88.27%;93.26%;88.86%;2777;327;369;4527;2.33s;3.69s;2.54s
+glm-5.1:cloud;Cloud;93.26%;66.88%;98.64%;92.42%;79.71%;725;359;10;4378;2.85s;1.76s;2.87s;95.14%;93.92%;93.71%;96.07%;93.81%;2948;191;198;4663;3.07s;1.73s;3.27s
+gpt-oss:120b-cloud;Cloud;93.57%;68.57%;96.19%;93.16%;80.07%;707;324;28;4412;2.84s;1.25s;2.86s;91.24%;89.99%;87.44%;93.70%;88.70%;2751;306;395;4548;4.10s;1.89s;4.31s
+minimax-m2.7:cloud;Cloud;94.61%;73.23%;94.28%;94.66%;82.43%;692;253;42;4484;11.91s;12.75s;11.94s;92.76%;93.23%;87.98%;95.86%;90.53%;2767;201;378;4652;16.61s;15.40s;16.81s
+qwen3.5:397b-cloud;Cloud;90.72%;59.33%;98.23%;89.55%;73.98%;722;495;13;4242;5.12s;10.70s;5.14s;90.86%;84.87%;93.42%;89.20%;88.94%;2939;524;207;4329;6.18s;9.11s;6.39s

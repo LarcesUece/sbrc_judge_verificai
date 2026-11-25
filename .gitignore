@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Ambiente e credenciais locais
+.env
+.env.*
+!.env.example
+credentials.json
+token*.json
+
+# Banco local e artefatos gerados
+*.sqlite3
+db.sqlite3
+staticfiles/
+static/
+
+# Bancos vetoriais locais e conjuntos externos
+chroma_db/
+chroma_db_evaluate*/
+database/
+*.zip
+*.log
+
+# IDE
+.vscode/
+.idea/
